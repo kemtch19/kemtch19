@@ -1,4 +1,4 @@
-### Mi nombre es Maicol soy un apasionado por cada día aprender más y la programación ha sido ese nicho en donde todos los días de mi vida aprendo más, y es donde mejor me puedo desempeñar ya que constantemente estoy aprendiendo y desarrollando mis habilidades como programador autodidacta. Me encanta la programación y espero hacer de mi pasión mi futuro trabajo aprendiendo de la mano de grandes personas. 
+### Mi nombre es Maicol soy un apasionado por cada día aprender más y tanto la programación como en la ciberseguridad han sido ese nicho en donde todos los días de mi vida aprendo más, y es donde mejor me puedo desempeñar ya que constantemente estoy aprendiendo y desarrollando mis habilidades como programador autodidacta. Me encanta la programación y espero hacer de mi pasión mi futuro trabajo aprendiendo de la mano de grandes personas. 
 
 <p align="center">
   <!--- stats (start) -->
