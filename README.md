@@ -38,16 +38,6 @@ Aplicación full stack tipo To-Do List construida con:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kemtch19&theme=shadow-red&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kemtch19&show_icons=true&theme=shadow_red&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📫 Contáctame
 
 - 📧 [Gmail](kemtch19@gmail.com)
