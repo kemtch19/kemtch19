@@ -12,10 +12,10 @@ Soy un **programador autodidacta** apasionado por aprender y crecer todos los dÃ
 ### ðŸ“« Charlemos
 
 <p align="left">
-  <a href="mailto:kemtch19@gmail.com">
+  <a href="mailto:kemtch19@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="[https://tuportafolio.com](https://portfolio-kemtch.vercel.app/)" target="_blank">
+  <a href="https://portfolio-kemtch.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/maicol-agudelo-taborda" target="_blank">
