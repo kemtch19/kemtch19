@@ -9,6 +9,22 @@ Soy un **programador autodidacta** apasionado por aprender y crecer todos los d�
 
 ---
 
+### 📫 Charlemos
+
+<p align="left">
+  <a href="mailto:kemtch19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="[https://tuportafolio.com](https://portfolio-kemtch.vercel.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/maicol-agudelo-taborda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
+  </a>
+</p>  
+
+---
+
 ### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
@@ -46,14 +62,6 @@ Aplicación full stack tipo To-Do List construida con:
 - **Backend**: Node.js, Express, MongoDB
 - **Autenticación**: JWT con cookies HttpOnly
 - **Funcionalidades**: Publicaciones de contenido, interactuar mediante (likes, comentarios, follows) y chatear en tiempo real. Autenticación segura con cookies HttpOnly, subida de imágenes y un sistema básico de moderación para mantener la plataforma segura.
-
----
-
-### 📫 Charlemos
-
-- 📧 [Gmail](kemtch19@gmail.com)
-- 💼 [Portfolio](https://portfolio-kemtch.vercel.app/)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/maicol-agudelo-taborda)  
 
 ---
 
