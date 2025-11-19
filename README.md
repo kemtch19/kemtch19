@@ -3,13 +3,13 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 Sobre Mí
 
 Soy un **programador autodidacta** apasionado por aprender y crecer todos los días. He encontrado en la programación el lugar para desarrollar mis habilidades, enfrentar nuevos desafíos y construir soluciones reales. Mi objetivo es poder divertirme con lo que estoy creando y disfrutar tanto que se me vayan las horas de lo mucho que estoy disfrutando y así encaminar mi energía hacía metas de valor.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
@@ -32,7 +32,7 @@ Soy un **programador autodidacta** apasionado por aprender y crecer todos los d�
 
 ---
 
-### 📌 Proyecto destacado
+### 📌 Proyectos Destacado
 
 #### 🗂️ [Taskify](https://taskifyyy.vercel.app/auth)
 
@@ -49,7 +49,7 @@ Aplicación full stack tipo To-Do List construida con:
 
 ---
 
-### 📫 Contáctame
+### 📫 Charlemos
 
 - 📧 [Gmail](kemtch19@gmail.com)
 - 💼 [Sitio Web](https://portfolio-kemtch.vercel.app/)
