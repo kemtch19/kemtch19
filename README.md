@@ -52,7 +52,7 @@ Aplicación full stack tipo To-Do List construida con:
 ### 📫 Charlemos
 
 - 📧 [Gmail](kemtch19@gmail.com)
-- 💼 [Sitio Web](https://portfolio-kemtch.vercel.app/)
+- 💼 [Portfolio](https://portfolio-kemtch.vercel.app/)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/maicol-agudelo-taborda)  
 
 ---
